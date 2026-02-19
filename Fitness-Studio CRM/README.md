@@ -182,4 +182,5 @@ Presented as a **Fitness Studio CRM Project** highlighting Salesforce skills for
 **Rucha Deshpande**  
 B.Tech Final Year | Computer Science Engineering  
 Prof. Ram Meghe Institute of Technology and Research, Amravati
+Mob: 7249714504
 
