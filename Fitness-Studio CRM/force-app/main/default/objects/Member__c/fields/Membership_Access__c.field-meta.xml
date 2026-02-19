@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Membership_Access__c</fullName>
+    <label>Membership Access</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Regular Membership</fullName>
+                <default>false</default>
+                <label>Regular Membership</label>
+            </value>
+            <value>
+                <fullName>Plus Membership</fullName>
+                <default>false</default>
+                <label>Plus Membership</label>
+            </value>
+            <value>
+                <fullName>Gold Membership</fullName>
+                <default>false</default>
+                <label>Gold Membership</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
